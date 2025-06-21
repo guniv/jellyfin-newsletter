@@ -1,8 +1,6 @@
 Welcome to the jellyfin-newsletter wiki!
 
-This wiki is very light as most information are available in the repository Readme. 
+Most information is available in the repository's Readme, but this wiki has documentation and instructions for specific features. 
 
-You will find here documentation and instructions for specific features. 
-
-## Table of content
+## Table of contents
 - [How to use placeholders to dynamically customize your emails](https://github.com/SeaweedbrainCY/jellyfin-newsletter/wiki/How-to-use-placeholder)
